@@ -1,4 +1,3 @@
-%%writefile classification_app.py
 """
 Task 1 — CLASSIFICATION
 Dataset : Breast Cancer Wisconsin (sklearn.datasets.load_breast_cancer)
